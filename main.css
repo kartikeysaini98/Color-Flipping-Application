@@ -1,0 +1,53 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    margin-top: 10px;
+    display: inline-block;
+    border: 1px solid slategray;
+    margin-left:380px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: thistle;
+    color: cornsilk;
+
+}
+
+.container{
+    margin-top: 100px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-left: 200px;
+    border-radius: 200px;
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.btn{
+display: inline-block;
+font-weight: 400;
+color: #212529;
+text-align: center;
+vertical-align: middle;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+/* background-color: transparent; */
+border: 1px solid blue;
+padding: .375rem .75rem;
+font-size: 1rem;
+line-height: 1.5;
+border-radius: 5px;
+transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+margin-top: 56px;
+margin-left: 590px;
+color: chocolate;
+}
+
+.con3{
+    margin-top: 250px;
+    margin-left: 630px;
+}
